@@ -1,0 +1,37 @@
+h1. Introdução ao Javascript
+
+* Origem 1995 (Netscape)
+
+* ECMAScript: Especificação de linguagem, serve como base para outras linguagem baseadas em script
+
+* TC39: Comissão que cuida das propostas do ECMAScript, manter e atualizar os padrões para bibliotecas. 
+
+* Fluxo de proposta 
+    ** Stage0: strawman (proposta documentada)
+    ** Stage1: proposal (campeão responsável, tem que ter exemplos)
+    ** Stage2: draft (primeira versão da especificação)
+    ** Stage3: candidate (Feedback de implementação e de usuários, especificação completa nessa etapa)
+    ** Stage4: finished (passando na suíte de testes, experiencia pratica)
+
+* ES2018
+    ** Operadores rest/spread
+    ** Iteração assincrona
+    ** Promise.prototype.finally()
+
+* ES.Next
+    ** Implementações futuras, podem ser vistas no babel. 
+
+h1. Conceitos 
+
+* Linguagem interpretada. 
+
+* Linguagem de tipagem fraca e dinâmica.
+
+* Typescript (superset, adiciona funcionalidades que o java não tem por default)
+
+* Flow (versão mais simplificada do Typescript)
+
+* Funções de primeira classe e ordem maior 
+
+* Closure (escopo léxico)
+
