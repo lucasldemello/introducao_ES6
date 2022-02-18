@@ -36,3 +36,19 @@ h1. Conceitos
 * Closure (escopo léxico)
     ** escopo global, função, bloco.
 
+* Currying
+    ** reaproveitar parametros.
+
+* Hoisting 
+    ** Levantar ou suspender algo. 
+    ** Basicamente as fu
+
+* Imutabilidade 
+    ** Em linguagem funcional os dados nuncam mudam, se tu precisa mudar ela se cria uma nova. 
+    ** Podemos simular isso em Javascript
+
+* Tipos e variáveis
+    ** 3 formas de criar uma variável dentro dos scopos (global, funcao, bloco)
+    *** var: não entende escopo de bloco, somente funcao e global
+    *** let: respeita escopo de bloco
+    *** const: respeita escopo de bloco. tipo primitivo não permite mudar, tipo objeto e array permite alterar seu conteudo.
