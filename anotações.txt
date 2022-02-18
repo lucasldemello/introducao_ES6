@@ -52,3 +52,8 @@ h1. Conceitos
     *** var: não entende escopo de bloco, somente funcao e global
     *** let: respeita escopo de bloco
     *** const: respeita escopo de bloco. tipo primitivo não permite mudar, tipo objeto e array permite alterar seu conteudo.
+
+
+    ** 6 tipos primitivos: string, number, boolean, null, undefined e symboll 
+    ** 3 outros tipos: object, function e array.
+    ** typeof null retorna um objeto.
