@@ -57,3 +57,4 @@ h1. Conceitos
     ** 6 tipos primitivos: string, number, boolean, null, undefined e symboll 
     ** 3 outros tipos: object, function e array.
     ** typeof null retorna um objeto.
+
